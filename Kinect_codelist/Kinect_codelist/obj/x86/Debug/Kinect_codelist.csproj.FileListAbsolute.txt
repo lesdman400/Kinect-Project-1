@@ -1,0 +1,28 @@
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\MainWindow.baml
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\App.g.cs
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\Kinect_codelist_MarkupCompile.cache
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\Kinect_codelist.g.resources
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\Kinect_codelist.Properties.Resources.resources
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\bin\Debug\Kinect_codelist.exe
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\bin\Debug\Kinect_codelist.pdb
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\Kinect_codelist.exe
+C:\Users\Les\AppData\Local\Temporary Projects\Kinect_codelist\obj\x86\Debug\Kinect_codelist.pdb
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\Kinect_codelist.exe
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\Kinect_codelist.pdb
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\bin\Debug\Kinect_codelist.exe
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\bin\Debug\Kinect_codelist.pdb
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\MainWindow.baml
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\App.g.cs
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\Kinect_codelist_MarkupCompile.cache
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\Kinect_codelist.g.resources
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\Kinect_codelist.Properties.Resources.resources
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Les\documents\visual studio 2010\Projects\Kinect_codelist\Kinect_codelist\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Les\Documents\Visual Studio 2010\Projects\Kinect_codelist\Kinect_codelist\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Les\Documents\Visual Studio 2010\Projects\Kinect_codelist\Kinect_codelist\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
